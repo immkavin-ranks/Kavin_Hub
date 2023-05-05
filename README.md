@@ -30,6 +30,6 @@ This repo is part of Responsive Web Designing using HTML and CSS
 
 09-Learn Accessibility by Building a Quiz
 
-10-Tribute PageCertification Project
+10-Tribute Page
 
     For this project, you will build a tribute page for a subject of your choosing, fictional or real.
