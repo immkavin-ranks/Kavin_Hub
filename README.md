@@ -18,7 +18,6 @@ This repo is part of Responsive Web Designing using HTML and CSS
 
 05-Survey Form
 
-    For this project, you will build a survey form to collect data from your users.
 
 # Section - 2
 
@@ -32,4 +31,3 @@ This repo is part of Responsive Web Designing using HTML and CSS
 
 10-Tribute Page
 
-    For this project, you will build a tribute page for a subject of your choosing, fictional or real.
